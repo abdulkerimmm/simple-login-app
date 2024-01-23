@@ -1,0 +1,10 @@
+.form{
+    background-color: rgb(227, 215, 215);
+    position: relative;
+    z-index: 1;
+    max-width: 360px;
+    padding: 40px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}

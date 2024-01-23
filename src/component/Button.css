@@ -1,0 +1,19 @@
+.button{
+    color: rgb(10, 10, 10);
+    background-color: aqua;
+    text-transform: uppercase;
+    outline: none;
+    box-sizing: border-box;
+    padding: 20px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    width: max-content;   
+}
+
+
+.button:hover,
+.button:active,
+.button:focus{
+    background-color: red;
+}
